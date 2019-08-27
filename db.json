@@ -6,16 +6,16 @@
     		"params": {
         	"accessToken": "token",
         	"files": [
-            		{
-                		"name": "filename.txt",
-                		"url": "https://bitrix.ru/ajax.php"
-                		"id": "1"
-            		},
-            		{
-                		"name": "filename.txt",
-                		"url": "https://bitrix.ru/ajax.php"
-                		"id": "2"
-            		}
+            			{
+                			"name": "filename.txt",
+                			"url": "https://bitrix.ru/ajax.php",
+                			"id": "1"
+            			},
+            			{
+                			"name": "filename.txt",
+                			"url": "https://bitrix.ru/ajax.php",
+                			"id": "2"
+            			}
         		]
     		},
     		"extra": {
